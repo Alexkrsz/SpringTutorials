@@ -1,0 +1,5 @@
+package com.zalem.topics;
+
+public class TopicRepository {
+
+}
